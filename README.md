@@ -46,7 +46,7 @@ You can check out the sheet [here](https://takeuforward.org/interviews/strivers-
 | 📂 Topic       | ✅ Problems Solved | 🔗 Link to Solutions              |
 |----------------|-------------------|-----------------------------------|
 | Arrays         | 28/40             | [View Solutions](./arrays)        |
-| Strings        | 0/15              | [View Solutions](./strings)       |
+| Strings        | 1/15              | [View Solutions](./strings)       |
 | Linked Lists   | 31/31             | [View Solutions](./linkedlist)    |
 | Stack & Queue  | 0/30              | [View Solutions](./stacks_queue)  |
 | Sliding Window | 10/12             | [View Solutions](./slidingWindow) |
