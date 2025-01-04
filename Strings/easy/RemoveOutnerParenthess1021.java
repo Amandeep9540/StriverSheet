@@ -1,4 +1,4 @@
-package Strings;
+package Strings.easy;
 
 public class RemoveOutnerParenthess1021 {
     public static void main(String[] args) {
