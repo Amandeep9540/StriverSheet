@@ -43,13 +43,14 @@ You can check out the sheet [here](https://takeuforward.org/interviews/strivers-
 
 ## 📈 Progress Tracker
 
-| 📂 Topic       | ✅ Problems Solved | 🔗 Link to Solutions              |
-|----------------|-------------------|-----------------------------------|
-| Arrays         | 28/40             | [View Solutions](./arrays)        |
-| Strings        | 14/14             | [View Solutions](./strings)       |
-| Linked Lists   | 31/31             | [View Solutions](./linkedlist)    |
-| Stack & Queue  | 22/30             | [View Solutions](./stacks_queue)  |
-| Sliding Window | 10/12             | [View Solutions](./slidingWindow) |
+| 📂 Topic        | ✅ Problems Solved | 🔗 Link to Solutions              |
+|-----------------|-------------------|-----------------------------------|
+| Arrays          | 28/40             | [View Solutions](./arrays)        |
+| Strings         | 14/14             | [View Solutions](./strings)       |
+| Linked Lists    | 31/31             | [View Solutions](./linkedlist)    |
+| Stack & Queue   | 22/30             | [View Solutions](./stacks_queue)  |
+| Sliding Window  | 10/12             | [View Solutions](./slidingWindow) |
+| Recursion       | 6/25              | [View Solutions](./recursion)     |
 
 *Regularly updated as progress is made!*
 
