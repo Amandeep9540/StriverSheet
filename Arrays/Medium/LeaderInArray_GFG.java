@@ -6,7 +6,8 @@ import java.util.Collections;
 public class LeaderInArray_GFG {
     public static void main(String[] args) {
         int[] arr = {16, 17, 4, 3, 5, 2};
-        leaders(arr);
+        leaders(arr).stream().forEach(System.out::println);
+
     }
 
     static ArrayList<Integer> leaders(int arr[]) {
