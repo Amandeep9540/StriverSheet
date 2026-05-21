@@ -8,7 +8,7 @@ public class ListNode {
         this.val = x;
     }
 
-    ListNode(int x,ListNode next) {
+    public ListNode(int x, ListNode next) {
         this.val = x;
         this.next = next;
     }
